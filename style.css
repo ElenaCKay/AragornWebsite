@@ -1,0 +1,33 @@
+* {
+    margin: 1px;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    font-family: Georgia, "Times New Roman", Times, serif;
+
+}
+
+h1 {
+    background-color: rgba(2, 160, 107, 0.877);
+}
+
+h2 {
+    background-color: rgba(2, 160, 107, 0.89);
+}
+
+h3 {
+    background-color: rgba(2, 160, 107, 0.884);
+}
+#list {
+    padding-left: 0;
+    margin: 0;
+    background-color: rgba(129, 112, 13, 0.452);
+    font-weight: 400;
+    
+
+
+}
+
+body {
+    background-image: url(lotrmap.jpg)
+}
